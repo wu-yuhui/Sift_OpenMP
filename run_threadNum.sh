@@ -1,0 +1,10 @@
+sift corgi.jpg 1 && sift brothers.jpg 1 && sift surf.jpg 1 
+sift corgi.jpg 2 && sift brothers.jpg 2 && sift surf.jpg 2
+sift corgi.jpg 4 && sift brothers.jpg 4 && sift surf.jpg 4
+sift corgi.jpg 8 && sift brothers.jpg 8 && sift surf.jpg 8
+sift corgi.jpg 16 && sift brothers.jpg 16 && sift surf.jpg 16
+sift corgi.jpg 32 && sift brothers.jpg 32 && sift surf.jpg 32
+sift corgi.jpg 64 && sift brothers.jpg 64 && sift surf.jpg 64
+sift corgi.jpg 128 && sift brothers.jpg 128 && sift surf.jpg 128
+sift corgi.jpg 256 && sift brothers.jpg 256 && sift surf.jpg 256
+sift corgi.jpg -1 && sift brothers.jpg -1 && sift surf.jpg -1
