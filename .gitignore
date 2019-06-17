@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+sift_tryOrient.cpp
